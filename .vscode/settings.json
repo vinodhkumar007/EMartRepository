@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "TestDB",
+            "dialect": "MySQL",
+            "name": "MySQLDBConnection",
+            "password": "vinothkumar22091996",
+            "port": 3306,
+            "server": "localhost",
+            "username": "vinoth"
+        }
+    ]
+}
